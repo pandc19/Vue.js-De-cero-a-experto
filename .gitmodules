@@ -1,0 +1,3 @@
+[submodule "02-intro-vue"]
+	path = 02-intro-vue
+	url = https://github.com/pandc19/vue-02-intro-vue.git
