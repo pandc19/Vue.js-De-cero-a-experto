@@ -1,3 +1,6 @@
 [submodule "02-intro-vue"]
 	path = 02-intro-vue
 	url = https://github.com/pandc19/vue-02-intro-vue.git
+[submodule "03-indecision-app"]
+	path = 03-indecision-app
+	url = https://github.com/pandc19/03-indecision-app.git
